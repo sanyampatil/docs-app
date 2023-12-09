@@ -1,6 +1,6 @@
 import React from 'react'
 
-const BackGround = () => {
+const BackGround = ({}) => {
   return (
     <>
       <div className=' fixed z-[2] w-full h-screen'>
