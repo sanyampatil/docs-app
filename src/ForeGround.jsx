@@ -12,21 +12,21 @@ function ForeGround () {
        desc:"this a ungdo ihddhd jidid  hdh sa loreee  uduh ",
       filesize:".9mb",
       close:true,
-      tag:{isOPen:true,TagTitle:"doenload now ",tagColor:"green"},
+      tag:{isOPen:true,TagTitle:"download now ",tagColor:"green"},
     },    
 
     {
       desc:"this a ungdo ihddhd jidid  hdh sa loreee  uduh ",
      filesize:".9mb",
      close:true,
-     tag:{isOPen:true,TagTitle:"doenload now ",tagColor:"green"},
+     tag:{isOPen:true,TagTitle:"sign up ",tagColor:"green"},
    },
 
    {
     desc:"this a ungdo ihddhd jidid  hdh sa loreee  uduh ",
    filesize:".9mb",
    close:true,
-   tag:{isOPen:true,TagTitle:"doenload now ",tagColor:"green"},
+   tag:{isOPen:true,TagTitle:"log in ",tagColor:"blue"},
  }
     
   ]
